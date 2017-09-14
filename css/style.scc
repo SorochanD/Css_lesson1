@@ -1,0 +1,32 @@
+/* p {
+    font-weight: bold; 
+    font-size: 120px;
+ } */
+ 
+ span.go   {  text-transform: uppercase;
+    text-decoration: underline; 
+   }  
+ div.p12x  {text-indent: 12px;
+
+   }     
+   p.zagl   {text-transform: capitalize;
+   /* }
+   span.speed { text-align: right;
+   } */
+  
+  span.sleep {text-decoration: line-through; 
+  }
+  
+  p.cnrt { 
+      text-align: center;
+      color:green;    
+  }
+  span.kr {
+      color: #FF0000
+  }
+  span.zl {
+      color: green
+  }
+  span.sn {
+      color: blue
+  }
